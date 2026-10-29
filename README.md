@@ -20,3 +20,8 @@ ILI9341 LCD Display<br/>
 \[Encoded Certificate]
 -----END CERTIFICATE-----
 ```
+## Short Demo
+
+
+https://github.com/user-attachments/assets/303a27b3-12f6-4417-9a93-2b8f4c911b32
+
